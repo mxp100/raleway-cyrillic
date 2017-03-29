@@ -1,0 +1,23 @@
+{
+    "name": "raleway-cyrillic",
+    "version": "4.0.2",
+    "description": "NPM package for the Raleway Cyrillic font",
+    "main": "raleway.css",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mxp100/raleway-cyrillic.git"
+    },
+    "keywords": [
+        "raleway",
+        "font",
+        "webfont",
+        "css",
+        "cyrillic"
+    ],
+    "author": "Pablo Impallari",
+    "license": "MIT AND OFL-1.1",
+    "bugs": {
+        "url": "https://github.com/mxp100/raleway-cyrillic/issues"
+    },
+    "homepage": "https://fonts.google.com/specimen/Raleway"
+}
